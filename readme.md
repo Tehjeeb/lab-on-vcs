@@ -1,3 +1,5 @@
 # lab class on version control system
 
-in this class we will see how to use git and github
+today is February 5th 2023
+
+in this class we saw how to use git and github
